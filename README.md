@@ -16,7 +16,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Following along with several modules, we learned how to make a to do list for which we can not only add items, but remove them as well. The final stage was to modify the styling. 
+Following along with several modules, we learned how to make a to do list for which we can not only add items, but remove them as well. The final stage was to modify the styling. I modified font, size, and colors simply to my preference. 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -34,9 +34,10 @@ Load the HTML file onto your web browser and use the ToDo list. You can modify t
 ## Roadmap
 
 - [X] Change background color
-- [X] Change Font
-- [ ] Create borders
-- [ ] Change input box color
+- [X] Change font-family
+- [X] Change box color
+- [X] Change font-size
+- [X] Add hover feature
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
